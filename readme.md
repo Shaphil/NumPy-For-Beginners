@@ -12,4 +12,9 @@ Getting started guide to NumPy for beginners. NumPy is a Python library for math
 - Load data in from a file
 - Advanced Indexing and Boolean Masking
 
-The tutorial can be found on YouTube via this link - [https://youtu.be/GB9ByFAIAH4](https://youtu.be/GB9ByFAIAH4)
+## Reference(s)
+
+The tutorial can be found on YouTube,
+
+- via Keith's channel - [https://youtu.be/GB9ByFAIAH4](https://youtu.be/GB9ByFAIAH4)
+- or, via FreeCodeCamp's channel - [https://youtu.be/QUT1VHiLmmI](https://youtu.be/QUT1VHiLmmI)
