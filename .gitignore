@@ -6,6 +6,9 @@
 **/.idea/
 **/.idea/*
 
+# Custom files and folders
+*temp.md
+
 # Database files
 *.db
 *.sqlite3
