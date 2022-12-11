@@ -24,5 +24,6 @@ Getting started guide to NumPy for beginners. NumPy is a Python library for math
 
 The tutorials can be found at the following links,
 
+- Official docs - [https://numpy.org/doc/stable/index.html](https://numpy.org/doc/stable/index.html)
 - via Keith Galli's channel - [https://youtu.be/GB9ByFAIAH4](https://youtu.be/GB9ByFAIAH4)
 - or, via FreeCodeCamp's channel - [https://youtu.be/QUT1VHiLmmI](https://youtu.be/QUT1VHiLmmI)
